@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Adwita Jain
 
-<!--
-**jainadwita/jainadwita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* I am a passionate student exploring the world of programming
+* Currently learning Java and Data Structures and Algorithms (DSA)
+* Improving problem-solving and coding skills step by step
+* Curious learner who enjoys understanding how things work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Tools
+
+* Programming Languages: Java, C, Python
+* Tools: Git, GitHub, VS Code
+
+## Goals
+
+* Become a skilled software developer
+* Master Data Structures and Algorithms
+* Explore Web Development in the future
+
+## Connect with Me
+
+* GitHub: https://github.com/jainadwita
